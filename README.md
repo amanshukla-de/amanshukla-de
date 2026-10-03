@@ -7,7 +7,7 @@
 <p align="center">
 <a href="https://auth.geeksforgeeks.org/user/amanshukla-de/practice" target="_blank"><img alt="" src="https://img.shields.io/badge/GeeksforGeeks-000?logo=GeeksforGeeks&logoColor=2FF200&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://linkedin.com/in/amanshukla-de" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://instagram.com/ujjawal.singh.21" target="_blank"><img alt="" src="https://img.shields.io/badge/instagram-DC007B?logo=instagram&logoColor=000000&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://instagram.com/aman.sh.__" target="_blank"><img alt="" src="https://img.shields.io/badge/instagram-DC007B?logo=instagram&logoColor=000000&style=for-the-badge" style="vertical-align:center" /></a>
  <a href="https://leetcode.com/amanshukla-de/" target="_blank"><img alt="" src="https://img.shields.io/badge/Leetcode-000?logo=leetcode&logoColor=FFF926&style=for-the-badge" style="vertical-align:center" /></a></p>
 
 I'm a **Data Engineer** with strong experience in building scalable, high-performance systems and modern data platforms. I specialize in designing **microservices architectures**, **cloud-native applications**, and **data pipelines** using tools like **Java**, **Spring Boot**, **Python**, **Django**, **Apache Spark**, **Databricks**, and a wide range of **AWS services**.
@@ -67,7 +67,7 @@ I'm a **Data Engineer** with strong experience in building scalable, high-perfor
 <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" height = "50%" width = "50%"/>
 
 ## Connect with me 🤝
-[![GitHub followers](https://img.shields.io/github/followers/amanshukla-de?style=social)](https://www.github.com/amanshukla-de) [![Linkedin Badge](https://img.shields.io/badge/-amanshukla-de-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanshukla-de/)](https://www.linkedin.com/in/amanshukla-de/)
+[![GitHub followers](https://img.shields.io/github/followers/amanshukla-de?style=social)](https://www.github.com/amanshukla-de) [![Linkedin Badge](https://img.shields.io/badge/-amanshukla-de-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanshukla-de/)](https://www.linkedin.com/in/amanshukla-de/)[![Instagram Badge](https://img.shields.io/badge/-aman.sh.__-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/aman.sh.__/)](https://www.instagram.com/aman.sh.__/)
 <br>
 <br>
 <br>
