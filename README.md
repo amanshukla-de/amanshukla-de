@@ -67,7 +67,7 @@ I'm a **Data Engineer** with strong experience in building scalable, high-perfor
 <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" height = "50%" width = "50%"/>
 
 ## Connect with me 🤝
-[![GitHub followers](https://img.shields.io/github/followers/amanshukla-de?style=social)](https://www.github.com/amanshukla-de) [![Linkedin Badge](https://img.shields.io/badge/-amanshukla-de-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanshukla-de/)](https://www.linkedin.com/in/amanshukla-de/)[![Instagram Badge](https://img.shields.io/badge/-aman.sh.__-black?style=flat-square&logo=Instagram&logoColor=white&link=[https://www.instagram.com/aman.sh.__/](https://www.instagram.com/aman.sh.__/))](https://www.instagram.com/aman.sh.__/)
+[![GitHub followers](https://img.shields.io/github/followers/amanshukla-de?style=social)](https://www.github.com/amanshukla-de) [![Linkedin Badge](https://img.shields.io/badge/-amanshukla-de-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanshukla-de/)](https://www.linkedin.com/in/amanshukla-de/)
 <br>
 <br>
 <br>
